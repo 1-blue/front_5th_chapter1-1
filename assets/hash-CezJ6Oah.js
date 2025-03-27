@@ -1,0 +1,1 @@
+import{s as r,a,r as e,o as s}from"./render-bqDINECX.js";r.routeType="hash";a.push("/");window.addEventListener("load",e);window.addEventListener("popstate",e);window.addEventListener("hashchange",e);s.subscribe(e);s.subscribe(()=>console.log("🚀 해시 상태 변경"));

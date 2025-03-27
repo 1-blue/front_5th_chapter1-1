@@ -1,0 +1,1 @@
+import{r as e,o as s,s as o}from"./render-bqDINECX.js";o.routeType="history";window.addEventListener("load",e);window.addEventListener("popstate",e);s.subscribe(e);s.subscribe(()=>console.log("🚀 히스토리 상태 변경"));
